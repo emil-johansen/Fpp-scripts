@@ -15,7 +15,7 @@ v=70
 # 5h = Whait 5 hours
 t=3m
 
-# Speed: (not defined in sec)(do not set to low else it will begin to lag)
+# Speed: (not defined in sec)
 s=5
 #######################################################
 
